@@ -13,7 +13,7 @@ Demo Purpose
 ## Deployment
 Deployment Demo
 ## How to contribute
-Just do it.
+Please fork this repository and then issue Pull Requests for review
 ### Copyrigth
 
 
